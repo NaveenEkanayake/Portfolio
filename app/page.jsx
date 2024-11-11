@@ -27,7 +27,7 @@ const Home = () => {
               Full Stack Developer/ MERN Stack Developer
             </span>
             <h1 className="text-[48px] xl:text-[80px] leading-[1.1] font-semibold">
-              Hello I'm <br />
+              Hello I&apos;m <br />
               <span className="text-accent">
                 <Typewriter
                   words={[
